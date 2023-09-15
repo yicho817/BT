@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BT</string>
+    <string name="start_bluetooth">Start Bluetooth</string>
+    <string name="received_data">Received Data:</string>
+</resources>
